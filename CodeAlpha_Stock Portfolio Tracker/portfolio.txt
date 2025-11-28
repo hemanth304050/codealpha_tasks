@@ -1,0 +1,6 @@
+Stock	Qty	Price	Value
+AAPL	1000	180	180000
+GOOGL	2	140	280
+AMZN	10	135	1350
+
+Total Investment: 181630
