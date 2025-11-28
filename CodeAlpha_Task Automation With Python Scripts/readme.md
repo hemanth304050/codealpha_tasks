@@ -36,20 +36,15 @@ It demonstrates Python’s ability to interact with the operating system, handle
 ### 3️⃣ Run:
 ```bash
 python move_jpg_files.py
-### 4️⃣ Enter:
+ 4️⃣ Enter:
 📂 Source folder path
 
 📂 Destination folder path
 
 Example:
-
-mathematica
-Copy code
 Enter source folder path: C:\Users\User\Pictures\source
 Enter destination folder path: C:\Users\User\Pictures\moved
 📂 Example Output
-mathematica
-Copy code
 Moved: C:\photos\img1.jpg -> C:\moved\img1.jpg
 Moved: C:\photos\pic2.jpeg -> C:\moved\pic2.jpeg
 
